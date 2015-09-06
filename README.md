@@ -1,3 +1,3 @@
-This is not the main BLHeli reository.
+This is not the main BLHeli repository.
 Go to: https://github.com/bitdump/BLHeli
 
